@@ -9,7 +9,7 @@ Prerequisites:
 
 Stage 1: Deploying the Flask app locally
 
-        Step 1: Install dependencies {Flask, MarkupSafe, Werkzeug, itsdangerous, psutil, plotly, tenacity, boto3, kubernetes}
+        Step 1: Install dependencies
         Command:pip3 install -r requirements.txt
         
         Step 2: Run the app
